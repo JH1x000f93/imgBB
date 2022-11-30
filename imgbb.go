@@ -1,4 +1,4 @@
-package ImgBB
+package imgBB
 
 import (
 	"encoding/json"
