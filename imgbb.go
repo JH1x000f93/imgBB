@@ -50,7 +50,7 @@ type info struct {
 	Url       string `json:"url"`
 }
 
-// ImgBB.Upload("0x8d58lf04hbn84053gb26j","https://sindominio.io/profile.png")
+// imgBB.Upload("0x8d58lf04hbn84053gb26j","https://sindominio.io/profile.png")
 func Upload(key, img string) (string, error) {
 	var imgR ImgBBResult
 	//15 days 1 300 000
