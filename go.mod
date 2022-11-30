@@ -1,3 +1,3 @@
-module ImgBB
+module imgBB
 
 go 1.17
